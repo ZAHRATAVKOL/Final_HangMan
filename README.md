@@ -4,3 +4,4 @@
 
 https://user-images.githubusercontent.com/106654786/177212525-cec2c080-334b-4e1a-a071-4d6ba3478766.mp4
 
+[Hangman (2).zip](https://github.com/ZAHRATAVKOL/Final_HangMan/files/9041860/Hangman.2.zip)
