@@ -1,0 +1,8 @@
+D:\koakoa\play\Hangman\obj\x86\Debug\Hangman.Form1.resources
+D:\koakoa\play\Hangman\obj\x86\Debug\Hangman.Properties.Resources.resources
+D:\koakoa\play\Hangman\obj\x86\Debug\Hangman.csproj.GenerateResource.Cache
+D:\koakoa\play\Hangman\bin\Debug\Hangman.exe
+D:\koakoa\play\Hangman\bin\Debug\Hangman.pdb
+D:\koakoa\play\Hangman\obj\x86\Debug\Hangman.exe
+D:\koakoa\play\Hangman\obj\x86\Debug\Hangman.pdb
+D:\koakoa\play\Hangman\obj\x86\Debug\Hangman.csprojResolveAssemblyReference.cache
